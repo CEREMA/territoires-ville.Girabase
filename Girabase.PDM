@@ -1,0 +1,102 @@
+[Root]
+Most Recent Package=Fichier  1.dep
+
+
+[Package|Fichier  1.dep|Root]
+SubWizProgID=PDWizard.DepPkgSubWiz
+BuildFolder=D:\LOG_Girabase\Src
+
+[Package|Fichier  1.dep|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Fichier  1.dep|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Fichier  1.dep|Files Found]
+
+[Package|Fichier  1.dep|Files Released]
+
+[Package|Fichier  1.dep|Missing Dependency Information]
+C:\windows\system32\ss32x25.ocx=
+
+[Package|Fichier  1.dep|Out-of-Date Dependency Information]
+C:\windows\system32\Mscomct2.ocx=
+C:\windows\system32\tabctl32.ocx=
+C:\windows\system32\COMDLG32.OCX=
+C:\windows\system32\mscomctl.ocx=
+
+[Package|Fichier  1.dep|Files Added]
+
+[Package|Fichier  1.dep|Files Removed]
+
+[Package|Fichier  1.dep|Files In Project]
+D:\LOG_Girabase\Src\Girabase.exe=Yes
+C:\windows\system32\msvbvm60.dll=Yes
+C:\windows\system32\oleaut32.dll=Yes
+C:\windows\system32\olepro32.dll=Yes
+C:\windows\system32\asycfilt.dll=Yes
+C:\windows\system32\stdole2.tlb=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\windows\system32\Vb6fr.dll=Yes
+C:\windows\system32\hhctrl.ocx=Yes
+C:\windows\system32\itss.dll=Yes
+C:\windows\system32\itircl.dll=Yes
+C:\windows\hh.exe=Yes
+C:\windows\system32\Msstdfmt.dll=Yes
+C:\Program Files\Fichiers communs\InteractiveStudios\IsLicense.dll=Yes
+C:\windows\system32\mscomctl.ocx=Yes
+C:\windows\system32\Mscmcfr.dll=Yes
+C:\windows\system32\COMDLG32.OCX=Yes
+C:\windows\system32\Cmdlgfr.dll=Yes
+C:\windows\system32\tabctl32.ocx=Yes
+C:\windows\system32\Tabctfr.dll=Yes
+C:\windows\system32\ss32x25.ocx=Yes
+C:\windows\system32\Mscomct2.ocx=Yes
+C:\windows\system32\Mscc2fr.dll=Yes
+
+[Package|Fichier  1.dep|Configure Registry Files]
+Applicable=
+
+[Package|Fichier  1.dep|Configure Remote Servers]
+Applicable=
+
+[Package|Fichier  1.dep|Install Locations]
+D:\LOG_Girabase\Src\Girabase.exe=$(AppPath)
+C:\windows\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\windows\system32\oleaut32.dll=$(WinSysPathSysFile)
+C:\windows\system32\olepro32.dll=$(WinSysPathSysFile)
+C:\windows\system32\asycfilt.dll=$(WinSysPathSysFile)
+C:\windows\system32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\windows\system32\Vb6fr.dll=$(WinSysPath)
+C:\windows\system32\hhctrl.ocx=$(WinSysPath)
+C:\windows\system32\itss.dll=$(WinSysPath)
+C:\windows\system32\itircl.dll=$(WinSysPath)
+C:\windows\hh.exe=$(WinSysPath)
+C:\windows\system32\Msstdfmt.dll=$(WinSysPath)
+C:\Program Files\Fichiers communs\InteractiveStudios\IsLicense.dll=$(WinSysPath)
+C:\windows\system32\mscomctl.ocx=$(WinSysPath)
+C:\windows\system32\Mscmcfr.dll=$(WinSysPath)
+C:\windows\system32\COMDLG32.OCX=$(WinSysPath)
+C:\windows\system32\Cmdlgfr.dll=$(WinSysPath)
+C:\windows\system32\tabctl32.ocx=$(WinSysPath)
+C:\windows\system32\Tabctfr.dll=$(WinSysPath)
+C:\windows\system32\ss32x25.ocx=$(WinSysPath)
+C:\windows\system32\Mscomct2.ocx=$(WinSysPath)
+C:\windows\system32\Mscc2fr.dll=$(WinSysPath)
+
+[Package|Fichier  1.dep|Configure Shared Files]
+Applicable=
+
+[Package|Fichier  1.dep|DepFile]
+DepCabFile=Girabase.CAB
+DepCabRun=Girabase.INF
+
+[Package|Fichier  1.dep|Package]
+PackageFolder=D:\LOG_Girabase\Src
+ProjectFolder=D:\LOG_Girabase\Src
+ServerSideCab=
+File1=D:\LOG_Girabase\Src\Girabase.DEP
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz

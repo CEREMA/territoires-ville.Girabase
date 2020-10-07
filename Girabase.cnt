@@ -1,0 +1,74 @@
+:Base Girabase.hlp>Main
+1 Introduction
+2 Présentation=Pr.sentation@Girabase.hlp>Main
+1 Installation
+2 Désinstallation=D.sinstallation@Girabase.hlp>Main
+2 Configuration de l'imprimante=Configurationdel.imprimante@Girabase.hlp>Main
+1 Principes d'utilisation de Girabase
+2 Possibilités et cas d'utilisation=Possibilit.setcasd.utilisation@Girabase.hlp>Main
+2 Principes de calcul=Principesdecalcul@Girabase.hlp>Main
+2 Données nécessaires
+3 Données nécessaires=Donn.esn.cessaires@Girabase.hlp>Main
+3 Données préliminaires=Donn.espr.liminaires@Girabase.hlp>Proc
+3 Données géométriques=Donn.esg.om.triques@Girabase.hlp>Proc
+3 Données de trafic=Donn.esdetrafic1@Girabase.hlp>Proc
+2 Ce que calcule GIRABASE
+3 Ce que calcule GIRABASE=CequecalculeGIRABASE@Girabase.hlp>Main
+3 Calcul de la capacité d'une entrée=Calculdelacapacit.d.uneentr.e@Girabase.hlp>Proc
+3 Calcul des temps d'attente et des longueurs de stockage=Calculdestempsd.attenteetdeslongueursdestockage@Girabase.hlp>Proc
+2 Les résultats et leur interprétation
+3 Les résultats et leur interprétation=Lesr.sultatsetleurinterpr.tation@Girabase.hlp>Main
+3 La réserve de capacité (en %)=Lar.servedecapacit..en..@Girabase.hlp>Proc
+3 Les temps d'attente et les longueurs de stockage=Lestempsd.attenteetleslongueursdestockage@Girabase.hlp>Proc
+3 La courbe de capacité=Lacourbedecapacit.@Girabase.hlp>Proc
+3 Les remarques=Lesremarques@Girabase.hlp>Proc
+1 Manuel utilisateur
+2 Lancement de Girabase =LancementdeGirabase.bmchelp0007.wmf.@Girabase.hlp>Main
+2 Le menu GIRABASE=LemenuGIRABASE@Girabase.hlp>Main
+2 Ouvrir un giratoire=Ouvrirungiratoire@Girabase.hlp>Main
+2 Créer un nouveau giratoire
+3 Créer un nouveau giratoire=Cr.erunnouveaugiratoire@Girabase.hlp>Main
+3 Description du site
+4 Description du site=Descriptiondusite@Girabase.hlp>Proc
+4 Nom du carrefour=Nomducarrefour@Girabase.hlp>Proc
+4 Localisation=Localisation@Girabase.hlp>Proc
+4 Environnement=Environnement@Girabase.hlp>Proc
+4 Caractéristiques des branches=Caract.ristiquesdesbranches@Girabase.hlp>Proc
+3 Dimensionnement
+4 Dimensionnement=Dimensionnement@Girabase.hlp>Proc
+4 Variante=Variante@Girabase.hlp>Proc
+4 Géométrie du carrefour=G.om.trieducarrefour@Girabase.hlp>Proc
+4 Géométrie des branches=G.om.triedesbranches@Girabase.hlp>Proc
+3 Le schéma du giratoire
+4 Le schéma du giratoire=Lesch.madugiratoire@Girabase.hlp>Proc
+3 Données de trafic
+4 Données de trafic=Donn.esdetrafic2@Girabase.hlp>Proc
+4 Période de trafic=P.riodedetrafic1@Girabase.hlp>Proc
+4 Trafic piétons=Traficpi.tons@Girabase.hlp>Proc
+4 Trafic véhicules (en uvp/h ou par mode de trafic)=Traficv.hicules.enuvp.houparmodedetrafic.@Girabase.hlp>Proc
+4 Créer une nouvelle période de trafic=Cr.erunenouvellep.riodedetrafic@Girabase.hlp>Proc
+4 Supprimer les trafics=Supprimerlestrafics@Girabase.hlp>Proc
+4 Renommer les trafics=Renommerlestrafics@Girabase.hlp>Proc
+4 Inverser les trafics=Inverserlestrafics@Girabase.hlp>Proc
+4 Multiplier les trafics=Multiplierlestrafics@Girabase.hlp>Proc
+4 Importer des trafics=Importerdestrafics@Girabase.hlp>Proc
+4 Diagramme de flux=Diagrammedeflux@Girabase.hlp>Proc
+2 Affichage des résultats
+3 Affichage des résultats=Affichagedesr.sultats@Girabase.hlp>Main
+3 Fonctionnement=Fonctionnement@Girabase.hlp>Proc
+3 Remarques sur la période=Remarquessurlap.riode@Girabase.hlp>Proc
+3 Remarques de conception=Remarquesdeconception@Girabase.hlp>Proc
+3 Courbes=Courbes@Girabase.hlp>Proc
+3 Saturer la branche=Saturerlabranche@Girabase.hlp>Proc
+2 Les impressions
+3 Les impressions=Lesimpressions@Girabase.hlp>Main
+3 Impression des données
+4 Impression des données=Impressiondesdonn.es@Girabase.hlp>Proc
+4 Géométrie=G.om.trie@Girabase.hlp>Proc
+4 Période de trafics=P.riodedetrafics@Girabase.hlp>Proc
+3 Impression des résultats
+4 Impression des résultats=Impressiondesr.sultats@Girabase.hlp>Proc
+4 Période de trafic=P.riodedetrafic2@Girabase.hlp>Proc
+4 Récapitulatif par branche=R.capitulatifparbranche@Girabase.hlp>Proc
+3 Sortie sur fichier
+4 Sortie sur fichier=Sortiesurfichier@Girabase.hlp>Proc

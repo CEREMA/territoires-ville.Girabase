@@ -1,0 +1,31 @@
+[Version]
+Version=4.0.0.24
+
+[Girabase.exe <000C>]
+Dest=$(AppPath)
+Date=07/09/2005
+Time=10:01
+Version=4.0.0.24
+CABFilename=Girabase.CAB
+CABINFFile=Girabase.INF
+Uses1=msvbvm60.dll
+Uses2=oleaut32.dll
+Uses3=olepro32.dll
+Uses4=asycfilt.dll
+Uses5=stdole2.tlb
+Uses6=COMCAT.DLL
+Uses7=Vb6fr.dll
+Uses8=hhctrl.ocx
+Uses9=Msstdfmt.dll
+Uses10=IsLicense.dll
+Uses11=mscomctl.ocx
+Uses12=COMDLG32.OCX
+Uses13=tabctl32.ocx
+Uses14=ss32x25.ocx
+Uses15=Mscomct2.ocx
+
+[ss32x25.ocx <000C>]
+Dest=$(WinSysPath)
+Date=10/12/1998
+Time=20:00
+Version=2.5.0.55
