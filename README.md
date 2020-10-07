@@ -1,5 +1,5 @@
 # territoires-ville.Girabase
-<h2>Le logiciel GIRABASE permet de tester les projets de carrefours giratoires du point de vue capacité et d'adapter les caractéristiques géométriques aux prévisions de trafic. GIRABASE accepte les giratoires de 3 à 8 branches, les mini-giratoires et les giratoires semi-franchissables.</h2>
+<h2>Le logiciel GIRABASE permet de tester les projets de carrefours giratoires du point de vue capacité et d'adapter les caractéristiques géométriques aux prévisions de trafic. Logiciel développé au CERTU sous Visual Basic 6.0. Initialement vendu au CERTU sous licence propriétaire et désormais diffusé en logiciel libre sous licence GPL. Ce logiciel n'est plus maintenu.</h2>
 
 A la 1ere ouverture d'un executable, une interface vous demandant un numéro de licence va s'ouvrir :
 
